@@ -5,4 +5,6 @@ In short, this is a purely statistical analysis on which NBA players to draft to
 
 All analysis done on this notebook is by me and my intuition.
 
+Language/Framework used: Python, MySQL
+
 If you want to talk more about this or have suggestions for me, please shoot me an email!
